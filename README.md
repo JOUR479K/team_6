@@ -15,7 +15,7 @@ Our group would like to find the data about how many students were admitted to t
 
 2. Most Visited Places in U.S. According To Instagram
 
-Times, Business Insider and Buzzfeed all did similar articles. They pulled data from the locations people across the nation chose to tag in their pictures. We could do research and find the top two-to-three places people Instagram in each state. We could then build something that calculates how many times that location tag (or a few versions of the tag) were used. We could narrow down the timeframe to last month or last year. 
+Times, Business Insider and Buzzfeed all did similar articles. They pulled data from the locations of people across the nation, determining the most visited places by the amounts of tagging the specific location got. We could do research and find the top two-to-three places people Instagram in each state. We could then build something that calculates how many times that location tag (or a few versions of the tag) were used. We could narrow down the timeframe to last month or last year. 
 Examples of Similar Articles:
 http://time.com/2015-most-popular-us-landmarks-instagram/
 http://www.buzzfeed.com/gabrielsanchez/the-most-instagrammed-spots-in-america-of-2015#.ouaWOrkV1
