@@ -7,10 +7,12 @@
 
 
 Revised Story Ideas
+
 1. Admitted Merrill College Students
 
 
 2. Most Visited Places in U.S. According To Instagram
+
 Times, Business Insider and Buzzfeed all did similar articles. They pulling data from the locations people acorss the antion chose tot ag their pictures. We could do research and find the top two-to-three places people Instagram in each state. We could then build something that calculates how many times that location tag (or a few versions of the tag) were used. We could narrow down the timeframe to last month or last year. 
 Examples of Similar Articles:
 http://time.com/2015-most-popular-us-landmarks-instagram/
