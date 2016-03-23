@@ -19,3 +19,7 @@ Times, Business Insider and Buzzfeed all did similar articles. They pulled data 
 Examples of Similar Articles:
 http://time.com/2015-most-popular-us-landmarks-instagram/
 http://www.buzzfeed.com/gabrielsanchez/the-most-instagrammed-spots-in-america-of-2015#.ouaWOrkV1
+
+Google Drawing:
+https://docs.google.com/drawings/d/16ZSzeJAHJErL2iz_5HlwHCnHma_G5ZLXGTQDq5N82tI/edit
+
