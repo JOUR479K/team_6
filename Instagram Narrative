@@ -1,9 +1,21 @@
-From the start of the group project, we all brought 3 different ideas to the table and then decided to go with a project revolving around Instagram. Here are the problems we have run into thus far:
+From the start of the group project, we all brought 3 different ideas to the table (ex: how many students were admitted to Merrill, the top visited places according to Instagram in the top 10 states, and which Chipotle stores shut down across the nation and why) and finally decided to go with a project revolving around Instagram. 
+
+Overall, once we determined what we wanted to do with our project, we learned that a lot of it was trial and error. We would start out going to Google to see if we could find code that someone else created and apply it to our project, but each time it turned out that something was wrong with that person's code. After testing out Google, we would send our error messages to the professor and he would steer us in a different direction. After it seemed like several rounds of going back and forth between Google and the professor, we decided to create a "mock project" of waht our project would have looked like had it worked. 
+
+Here's what our process looked like from the beginning: 
 
 Initially our idea was very broad (ex: we wanted to create something that would show the top most visted places in each of the 50 states)
-We didn't know what codes to use.
-We were unsure of what to create using the code (ex: scraper, bot, etc.)
-We didn't have an API token.
-We tried out different codes that often led to dead ends.
-There were a lot of problems getting the code to run in Python once we found working code and are still continuously struggling with that.
-The last set of code we found was faulty so after talking to the professor we developed a "mock project" of what our project would have looked like if it worked.
+Once we chose the Instagram idea, we were unsure of what we actually wanted to create (ex: scraper, bot, etc.). We tried to think about all of the assignments we completed in class and decided to create a csv file and use it to make a Google Fusion Table. 
+
+Once we settled on this idea, we didn't know what codes to use to create the project. After discussing with the professor, we determined that creating a Google Fusion Table wasn't the best way to represent the data and should go in the direction of using an API to create an InstagramBot, similar to making a TwitterBot. We also decided to make the project apply to locations at the University of Maryland instead of locations across several states. 
+
+After narrowing our project to UMD locations, we realized we didn't have an API token. This is what was necessary to create a TwitterBot so we knew that was what we needed. We tried out different codes and eventually found out that our professor needed to create a token for us, in order to sort of verify our use. 
+
+After we received "permission", we tried out different codes that often led to dead ends.
+
+Once we found working code, we had problems running the code in Python and continuously struggled  with that.
+
+The last set of code we tried was faulty so after talking to the professor and much trial and error, we agreed to develop a "mock project".
+
+We ultimately decided to use latitude and longitude to pinpoint locations in College Park (5 different bars) as well as used Instagram photo ID numbers. The mock project can be further understood in the "what we would do with the data" file in our Team 6 repository. All in all, this project was a learning lesson for all of us. 
+
